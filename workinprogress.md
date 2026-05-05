@@ -12,11 +12,12 @@
 ### Project setup (2026-05-05)
 - [x] Project structure created (CLAUDE.md, agents.md, skills/)
 - [x] Skills installed: superpowers, _plugin-context-mode, GitHub, Coolify
-- [ ] GitHub repo created
-- [ ] Initial commit pushed
+- [x] GitHub repo BunniChrist/3q created (private, default branch `main`)
+- [x] Initial commit pushed
+- [x] Agent prompt written to `PROMPT.md`
 
 ## In progress
-- Agent prompt prepared for `feature/init-3q` (Supabase schema + Next.js skeleton)
+- (none — waiting for agent to be launched on `feature/init-3q`)
 
 ## Backlog
 - Supabase migration: table `responses` + RLS + count view
